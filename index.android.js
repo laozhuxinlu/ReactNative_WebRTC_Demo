@@ -56,4 +56,5 @@
 if (!window.navigator.userAgent) {
   window.navigator.userAgent = "react-native";
 }
-require('./main');
+// require('./justOpenVideo');
+require('./VideoConnectPer');
